@@ -1,0 +1,24 @@
+{
+   "name":"People-Counter",
+   "platform and hardware":{
+      "hwreq":[
+         "Up Squared Grove IOT Dev Kit",
+         "UVC Compliant Camera"
+      ],
+      "libs":[
+         "CV SDK"
+      ],
+      "OS":[
+         "Ubuntu 16.04 LTS"
+      ],
+      "Description":[
+         "The sample detects the people in the designated area and prints the number of people detected"
+      ],
+      "Programming Language":[
+         "c++"
+      ],
+      "IDE Integration":[
+         "Intel System Studio"
+      ]
+   }
+}
